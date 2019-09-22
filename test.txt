@@ -8,5 +8,9 @@ commit lan 3
 
 Xu ly xung dot giua 2 nhanh master va 1
 cambamao
+<<<<<<< HEAD
 thuchanh
+=======
+11111111
+>>>>>>> f7006dadb70958752ab6c3ee00b736f470cdc25e
 
