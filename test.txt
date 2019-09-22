@@ -12,5 +12,7 @@ cambamao
 thuchanh
 =======
 11111111
->>>>>>> f7006dadb70958752ab6c3ee00b736f470cdc25e
+=========
+thuchanh
 
+Xu ly xung dot giua 2 users
