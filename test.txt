@@ -8,5 +8,7 @@ commit lan 3
 
 Xu ly xung dot giua 2 nhanh master va 1
 cambamao
+thuchanh
 11111111
+Xu ly xung dot giua 2 users
 
