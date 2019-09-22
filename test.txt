@@ -4,3 +4,6 @@ Xu ly xung dot giua 2 nhanh 1 va 2
 Xu ly xung dot giua 2 nhanh master va 2
 
 commit lan 3
+
+aaaaaaaaaaa
+
